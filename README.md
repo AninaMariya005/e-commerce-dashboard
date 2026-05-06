@@ -22,17 +22,17 @@ This dashboard summarizes e-commerce performance by tracking sales, orders, cust
 - Applied filters/slicers (gender, order mode) for interactivity
   
 # Dashboard
-
+![Dashboard](https://github.com/AninaMariya005/e-commerce-dashboard/blob/main/snapshot%20ecommerce.png)
 
 
 # Project Insights
-Weekly trends show fluctuations in both sales and quantity
-Female customers contribute a higher percentage of purchases
-Popular products include categories like T-shirts and Jeans
-Most customers prefer purchasing through Apps and Websites
-A majority of customers buy 1–3 items per order
-Delivery time is generally short, with most orders shipped within a few days
-Customer satisfaction ratings are mostly high
+- Weekly trends show fluctuations in both sales and quantity
+- Female customers contribute a higher percentage of purchases
+- Popular products include categories like T-shirts and Jeans
+- Most customers prefer purchasing through Apps and Websites
+- A majority of customers buy 1–3 items per order
+- Delivery time is generally short, with most orders shipped within a few days
+- Customer satisfaction ratings are mostly high
 
 # Final Conclusion
 To improve sales performance, businesses should focus on promoting top-selling products, optimizing online channels (Apps and Websites), and targeting key customer segments. Maintaining fast delivery times and high customer satisfaction will further enhance customer retention and overall business growth.
